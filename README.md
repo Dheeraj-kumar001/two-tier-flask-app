@@ -1,3 +1,6 @@
+# This project is built and dockerized by **Dheeraj kumar**  
+Deployed on AWS EC2 using Docker
+
  
 # Flask App with MySQL Docker Setup
 
